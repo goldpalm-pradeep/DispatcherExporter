@@ -1,0 +1,13 @@
+D:\DispatcherExporter\DispatcherExporter\obj\Release\ResolveAssemblyReference.cache
+D:\DispatcherExporter\DispatcherExporter\bin\Release\DispatcherExporter.exe
+D:\DispatcherExporter\DispatcherExporter\bin\Release\DispatcherExporter.pdb
+D:\DispatcherExporter\DispatcherExporter\obj\Release\DispatcherExporter.exe
+D:\DispatcherExporter\DispatcherExporter\obj\Release\DispatcherExporter.pdb
+D:\DispatcherExporter\DispatcherExporter\bin\Release\log4net.dll
+D:\DispatcherExporter\DispatcherExporter\bin\Release\DispatcherExporter.exe.config
+D:\Released_codes\DispatcherExporter\DispatcherExporter\bin\Release\DispatcherExporter.exe.config
+D:\Released_codes\DispatcherExporter\DispatcherExporter\obj\Release\DispatcherExporter.exe
+D:\Released_codes\DispatcherExporter\DispatcherExporter\obj\Release\DispatcherExporter.pdb
+D:\Released_codes\DispatcherExporter\DispatcherExporter\bin\Release\DispatcherExporter.exe
+D:\Released_codes\DispatcherExporter\DispatcherExporter\bin\Release\DispatcherExporter.pdb
+D:\Released_codes\DispatcherExporter\DispatcherExporter\obj\Release\ResolveAssemblyReference.cache
